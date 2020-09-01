@@ -1,0 +1,19 @@
+div{
+    
+    text-align: center;
+
+}
+table{
+    width: 90%;
+    margin-left:1cm;
+    text-align:center;
+}
+th,td{
+    border: 1px solid black;
+    height: 50px
+}
+th{
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:blue;
+}
